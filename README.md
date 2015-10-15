@@ -15,7 +15,7 @@ http://www.codewars.com/users/giusepped
 At Makers Academy I built actual projects from to start to end using several languages and frameworks, including Ruby, Javascript, JQuery, AngularJS, Sinatra, Rails, Node & Express, Socket.io, Html5 Canvas, and I am still eager to learn more. Here are some examples:
 
 Ruby on Rails with ActiveRecord: built a simple web version of Instagram. https://github.com/giusepped/instagram-challenge 
-Node/Angular.js web application: a collaborative drawing application where users can sign in and contribute to an html canvas of their choosing or create a new one. The collaboration is simultaneous and that is achieved using socket.io which integrates well with node.js and express. The database we used was Parse. https://github.com/giusepped/vary-pixel/tree/master 
+Node/Angular.js web application: a collaborative drawing application where users can sign in and contribute to an html canvas of their choosing or create a new one. The collaboration is simultaneous and that is achieved using socket.io which integrates well with node.js and express. The database we used was Parse. 
 
 Work History
 -----------------
