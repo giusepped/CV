@@ -19,8 +19,8 @@ Node/Angular.js web application: a collaborative drawing application where users
 
 Work History
 -----------------
-- Technical Support Engineer at Sykes for Nuance, a company that produces voice recognition and PDF handling software. (April 2013 - May 2014). I used to support English, Italian and Spanish speakers.
-- Customer Support Agent at Sykes for Procter & Gamble for the Italian and Spanish market.
+- Technical Support Engineer at Sykes for Nuance, a company that produces voice recognition and PDF handling software. (May 2014-May 2015). I used to support English, Italian and Spanish speakers.
+- Customer Support Agent at Sykes for Procter & Gamble for the Italian and Spanish market(August 2013-May 2014).
 
 
 Education
